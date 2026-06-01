@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to Bank accounts related Production APIs "
+  message: "Welcome to Bank accounts related Production-1 APIs "
   contactDetails:
     name: "Aishwarya - Product Owner"
     email: "aish@bank.com"
