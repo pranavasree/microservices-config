@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to bank loans related production-1 APIs "
+  message: "Welcome to bank loans related prod webhooks APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@bank.com"
