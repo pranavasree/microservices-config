@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to Bank accounts related Prod webhooks APIs "
+  message: "Welcome to Bank accounts related Prod  APIs "
   contactDetails:
     name: "Aishwarya - Product Owner"
     email: "aish@bank.com"
