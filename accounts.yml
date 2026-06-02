@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 accounts:
-  message: "Welcome to Bank accounts related local APIs "
+  message: "Welcome to Bank accounts related local docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}6bb590709eef804119b063d8bf299758b742c6314cce7c4292a873f4f759c13a"
