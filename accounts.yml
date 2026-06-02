@@ -1,6 +1,5 @@
-spring:
-  build:
-    version: "3.O"
+build:
+  version: "3.O"
 
 accounts:
   message: "Welcome to Bank accounts related local APIs "
